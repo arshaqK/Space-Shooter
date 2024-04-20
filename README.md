@@ -24,4 +24,5 @@ This repository contains code of Space Shooter Game programmed in C++ using OOP 
 2. You will need to adjust paths of linked images and fonts.
 
 <br>
+
 For any other queries regarding the code, you can contact me on [arshaq.kirmani@gmail.com]()
